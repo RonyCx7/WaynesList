@@ -9,11 +9,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Lista de las 10 canciones más escuchadas de tu cuenta de Spotify",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "spotify-web-api-node": "^5.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonyCx7/WaynesList.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RonyCx7/WaynesList/issues"
+  },
+  "homepage": "https://github.com/RonyCx7/WaynesList#readme"
 }
